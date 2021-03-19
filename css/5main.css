@@ -1,0 +1,131 @@
+h1 {
+    color:royalblue;
+    text-align: center;
+}
+
+p.one {
+    text-align: left;
+    text-indent: 1.5em;
+}
+p.one span {
+    background-color: #30d5c8;
+
+}
+
+div {
+    border:  solid red;
+    padding: 10px;
+    margin: 240px;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #FFFFFF;
+}
+
+ #two {
+    text-align: right;
+ }
+
+p.three {
+    padding: 60px,0,0,20px;
+    color:#8b00ff;
+    font-weight: bold;
+    font-size: 110%;
+}
+
+p.four {
+    text-align: center;
+}
+
+#five {
+    text-align: center;
+}
+
+#five span {
+    background-color: darkgray;
+}
+
+body {
+    background-image: url("../img/www.jpg"); 
+    background-size: 100%;
+    font-size: 150%;
+}
+
+div.six {
+    padding: 10px;
+    margin: 240px;
+    margin-top: 20px;
+}
+
+TABLE {
+     /* Ширина таблицы */
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border: 3px double black; /* Параметры рамки */
+    padding: 3px; /* Поля вокруг содержимого таблицы */
+    width:100%;  
+}
+
+TD, TH {
+    border: 3px double black; /* Параметры рамки */
+    padding-top: 7px;
+    font-family: tahoma;
+    
+}
+
+#seven {
+    font-family: Comic Sans MS;
+    text-align: left;
+}
+
+#eight {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#nine {
+    text-align: right;
+    background-color:#30d5c8;
+    color:blue;
+}
+
+#ten {
+    text-align: left;
+    background-color:#ec87df;
+    text-decoration:underline;
+    font-style: oblique;
+}
+
+#eleven {
+    background-color:#e2e612;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+
+#twelve {
+    color:blue;
+    text-align: left;
+    font-weight: bold;
+}
+
+#thirteen {
+    text-align: center;
+    font-weight: bold;
+}
+
+#fourteen {
+    text-align: right;
+    color:blue;
+    font-weight: bold;
+}
+
+#fifteen {
+    font-weight: bold;
+    text-align: left;
+}
+
+#sixteen {
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+}

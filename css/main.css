@@ -1,0 +1,56 @@
+body {
+    background-image: url(../img/eee.jpg);
+    background-size: 100%;
+}
+h1 {
+    color: white;
+}
+
+td,tr,th {
+    border: 4px solid black;
+    padding: 15px;
+}
+
+table.one {
+    empty-cells: show;
+    border-collapse: collapse;
+    float:left;  
+    position: fixed;
+    background-color: white;
+    color:white;
+}
+
+table.two {
+    empty-cells: show;
+    border-collapse: collapse;
+    float: left;
+    margin-left: 550px;
+    position: fixed;
+    background-color: white;
+    color:white;
+
+}
+
+table.three {
+    empty-cells: show;
+    border-collapse: collapse;
+    float: left;
+    margin-left: 870px;
+    position: fixed;
+    color:white;
+    
+}
+
+div {
+    text-align: left;
+    margin-top:10px;
+}
+
+hr {
+    text-align: left;
+    margin-top:350px;
+}
+
+li {
+    margin:20px;
+}

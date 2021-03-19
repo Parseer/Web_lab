@@ -1,0 +1,63 @@
+body {
+    background-image: url("../img/fon.jpg");;
+
+}
+
+
+h1 {
+    font-family: Mistral;
+    left: 450px;
+    top: 0;
+    position: fixed;
+}
+h2 {
+    text-align: center;
+    font-family: Monotype Corsiva;
+    top:70px;
+    left: 320px;
+    position: fixed;
+}
+
+
+div.container {
+    font-family: Monotype Corsiva;
+    font-size: xx-large;
+    position: fixed;
+}
+
+.row_one {
+    left: 320px;
+    top: 200px;
+    position: fixed;
+    
+}
+
+.row_two {
+    left: 660px;
+    top: 200px;
+    position: fixed;
+}
+
+
+
+
+.leftimg {
+    left: 20px;
+    top: 140px;
+    
+    position: fixed;
+    text-align:center;
+    font-size: xx-large;
+}
+
+
+.leftimg2 {
+    left: 970px;
+    top: 140px;
+    position: fixed;
+
+    text-align:center;
+    font-size: xx-large;
+}
+
+   
